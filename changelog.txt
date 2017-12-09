@@ -3,7 +3,7 @@ Nightly Updates
 - Anmeldedaten für Serienstream.to eingefügt (Danke an WizzardMaker)
 - Fix hdfilme_tv (Danke an vka)
 
-xStream 3.4.2
+xStream 3.4.4
 
 - Fix Kinodogs (Next Page)
 - Fix Cinenator (Erscheinungsjahr)
